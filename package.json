@@ -1,0 +1,15 @@
+{
+  "name": "phply",
+  "version": "0.0.1",
+  "description": "",
+  "main": "phply.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dalog": "^1.0.2",
+    "shelljs": "^0.7.7"
+  }
+}
